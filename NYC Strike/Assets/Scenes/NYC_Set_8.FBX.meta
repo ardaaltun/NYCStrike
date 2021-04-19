@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: f0e118bfeda72f541a95ecba737c846c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box223
+    100002: bush
+    100004: bush 1
+    100006: Circle02
+    100008: k
+    100010: LOw poly stairs10
+    100012: LOw poly stairs92
+    100014: //RootNode
+    100016: Object19
+    100018: Object229
+    100020: pCube1089
+    100022: Plane208
+    100024: Rectangle6610
+    100026: Rectangle7736
+    100028: Street_lamp_1
+    100030: Tents
+    100032: tree_var1_01
+    100034: tree_var2_01
+    100036: tree_var3_01
+    400000: Box223
+    400002: bush
+    400004: bush 1
+    400006: Circle02
+    400008: k
+    400010: LOw poly stairs10
+    400012: LOw poly stairs92
+    400014: //RootNode
+    400016: Object19
+    400018: Object229
+    400020: pCube1089
+    400022: Plane208
+    400024: Rectangle6610
+    400026: Rectangle7736
+    400028: Street_lamp_1
+    400030: Tents
+    400032: tree_var1_01
+    400034: tree_var2_01
+    400036: tree_var3_01
+    2100000: 'Material #436'
+    2100002: 'Material #453'
+    2100004: 'Material #452'
+    2100006: 'Material #435'
+    2100008: 'Material #430'
+    2100010: 'Material #425'
+    2100012: Metal
+    2100014: Box
+    2100016: 'Material #456'
+    2100018: 'Material #423'
+    2100020: 1
+    2100022: 'Material #58139'
+    2100024: Block_08_Shop_03
+    2100026: 'Material #96'
+    2100028: 'Material #97'
+    2100030: 'Material #93'
+    2100032: Block_08_Shop_01
+    2100034: Block_08_Shop_02
+    2100036: Block_08_Shop_04
+    2100038: Block_08_Shop_06
+    2100040: Block_08_Shop_05
+    2100042: Block_08_Shop_14
+    2100044: Block_08_Shop_08
+    2100046: Block_08_Shop_09
+    2100048: Block_08_Shop_07
+    2100050: Block_08_Shop_10
+    2100052: Block_08_Shop_11
+    2100054: Block_08_Shop_12
+    2100056: Block_08_Shop_13
+    2100058: 'Material #58140'
+    2100060: 'Material #58141'
+    2100062: Podium_wood
+    2100064: 'Material #99'
+    2100066: 'Material #95'
+    2100068: 01
+    2100070: 'Material #447'
+    2100072: sign04
+    2100074: 'Material #486'
+    2100076: sign10
+    2100078: 'Material #483'
+    2100080: 'Material #487'
+    2100082: 'Material #295'
+    2100084: 'Material #437'
+    2100086: sign11
+    2100088: 'Material #479'
+    2100090: 'Material #477'
+    2100092: 'Material #485'
+    2100094: b_01
+    2100096: Road
+    2100098: Trot
+    2100100: Grass
+    2100102: b_02
+    2100104: 02
+    2100106: 'Material #4'
+    2100108: 'Material #5'
+    2100110: 'Material #103608'
+    2100112: 'Material #450'
+    2100114: 'Material #235'
+    2100116: 'Material #103609'
+    2100118: k2s
+    2100120: 12 - Default
+    2100122: 19 - Default
+    2100124: k2
+    2100126: 'Material #103610'
+    2100128: 'Material #279'
+    2100130: 'Material #103611'
+    2100132: Pipes
+    2100134: rasty pipe
+    2100136: 01 - Default
+    2100138: grey
+    2100140: 'Material #3'
+    2100142: Billboards
+    2100144: 'Material #6'
+    2100146: 'Material #10'
+    2100148: 'Material #20'
+    2100150: 'Material #7'
+    2100152: 'Material #265'
+    2100154: 'Material #262'
+    2100156: 'Material #92'
+    2100158: 'Material #94'
+    2100160: 'Material #260'
+    2100162: 02 - Default
+    2100164: 18 - Default
+    2100166: 24 - Default
+    2100168: 13 - Default
+    2100170: 'Material #264'
+    2100172: 'Material #9'
+    2100174: 02 - Default1
+    2100176: 02 - Default1w
+    2100178: 02 - Default1wb
+    2100180: 'Material #8'
+    2100182: Stairs4
+    2100184: 'Material #267'
+    2100186: 'Material #266'
+    2100188: 'Material #278'
+    2100190: 'Material #276'
+    2100192: 'Material #277'
+    2100194: 'Material #268'
+    2100196: 'Material #269'
+    2100198: lantern
+    2100200: Y_light
+    2100202: R_light
+    2100204: G_light
+    2100206: 'Material #32'
+    2100208: 'Material #33'
+    2100210: Stop & run
+    2100212: 'Material #280'
+    2100214: 'Material #108'
+    2100216: 'Material #106'
+    2100218: Standard_20
+    2100220: 'Material #383'
+    2100222: 'Material #380'
+    2100224: Z2
+    2100226: Z1
+    2100228: Black metal Scratched
+    2100230: Z3
+    2100232: Chair_mat
+    2100234: border
+    2100236: wood
+    2100238: Glass_light
+    2100240: Phone
+    2100242: Trash can
+    2100244: trash01
+    2100246: Trash can leg
+    2100248: Road_stop
+    2100250: 'Material #382904'
+    2100252: 'Material #382903'
+    2100254: 'Material #14'
+    2100256: Steam
+    2100258: 'Material #382896'
+    2100260: 'Material #284'
+    2100262: 'Material #382891'
+    2100264: 'Material #382892'
+    2100266: 'Material #382897'
+    2100268: 'Material #382895'
+    2100270: 'Material #382898'
+    2100272: 'Material #382899'
+    2100274: 'Material #382900'
+    2100276: 'Material #382901'
+    2100278: 'Material #270'
+    2100280: 'Material #283'
+    2100282: puddles
+    2300000: Box223
+    2300002: bush
+    2300004: bush 1
+    2300006: Circle02
+    2300008: k
+    2300010: Object19
+    2300012: Object229
+    2300014: pCube1089
+    2300016: Plane208
+    2300018: Rectangle6610
+    2300020: Rectangle7736
+    2300022: Street_lamp_1
+    2300024: Tents
+    2300026: tree_var1_01
+    2300028: tree_var2_01
+    2300030: tree_var3_01
+    3300000: Box223
+    3300002: bush
+    3300004: bush 1
+    3300006: Circle02
+    3300008: k
+    3300010: Object19
+    3300012: Object229
+    3300014: pCube1089
+    3300016: Plane208
+    3300018: Rectangle6610
+    3300020: Rectangle7736
+    3300022: Street_lamp_1
+    3300024: Tents
+    3300026: tree_var1_01
+    3300028: tree_var2_01
+    3300030: tree_var3_01
+    4300000: Tents
+    4300002: Box223
+    4300004: Object229
+    4300006: Rectangle6610
+    4300008: pCube1089
+    4300010: Circle02
+    4300012: Rectangle7736
+    4300014: Street_lamp_1
+    4300016: k
+    4300018: Object19
+    4300020: bush
+    4300022: tree_var1_01
+    4300024: tree_var2_01
+    4300026: tree_var3_01
+    4300028: bush
+    4300030: Plane208
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
